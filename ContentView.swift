@@ -7,12 +7,5 @@ struct ContentView: View {
                 NounView()
             }
         }
-        
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundColor(.accentColor)
-            Text("Hello, world!")
-        }
     }
 }
