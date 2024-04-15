@@ -1,5 +1,5 @@
 //
-//  MadLip.swift
+//  MadLib.swift
 //  GitHubPractice2
 //
 //  Created by Adam Jakubiec on 4/15/24.
